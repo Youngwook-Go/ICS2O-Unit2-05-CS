@@ -11,7 +11,7 @@ class Program
     {
         double TAXRATE;
         TAXRATE = 0.18;
-        
+
         //this function accept user input
         double workedHours;
         double hourlyRate;
